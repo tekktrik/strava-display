@@ -1,0 +1,7 @@
+[tool.piku]
+project = "strava-display"
+piku = "0.2.1"
+circuit-python = "7"
+
+
+[tool.piku.dependencies]
